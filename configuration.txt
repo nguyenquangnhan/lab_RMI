@@ -1,0 +1,4 @@
+01234;Al;Habanim 1234;Tiberias;456;0
+04567;Bob;Habanim 4567;Tiberias;900;10
+89999;Cal;Hagalil 1;Tiberias;789;7
+90000;Dan;Hamigdal 2;Afula;100;100
